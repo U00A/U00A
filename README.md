@@ -1,528 +1,644 @@
 <div align="center">
-
-<!-- Stunning Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=300&section=header&text=U00A&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-metrics">Metrics</a> •
+  <a href="#-connect">Contact</a>
+</div>
 
 <br>
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Digital+Architect+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Code+Artisan+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=U00A&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%E2%80%A2%20Engineering%20Solutions&descAlignY=55&descSize=20" alt="Header"/>
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
 
-<!-- Decorative Line -->
+  <br><br>
+
+  <a href="https://github.com/U00A">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ouanes-med-b46b62313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/MedellelOu81359">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/real.o1n">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/📍_Location-El_Kala,_Algeria_🇩🇿-2ea44f?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🚀_Status-Open_to_Work-3fb950?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_Focus-AI_×_FullStack-bf91f3?style=flat-square&labelColor=0d1117"/>
+
+</div>
+
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
 <br>
 
-<!-- About Section with Modern CSS-Rich Design -->
+<h2 align="center" id="-about-me">🧬 ABOUT ME</h2>
+
 <div align="center">
 
-## 🌌 ABOUT ME
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-</div>
+### 🚀 Mission Statement
 
-<br>
-
-<!-- Hero Introduction Card -->
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100%">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=3&section=header" />
-
-### 🚀 Creative Technologist & Digital Innovator
-
-<img width="60%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-I'm a **Full Stack Developer** and **UI/UX Designer** who believes that great software is where elegant code meets beautiful design. Based in **El Kala, El Tarf 🇩🇿**, I'm a Computer Science student with a relentless passion for building digital products that don't just work—they inspire.
-
-</td>
-<td width="50%" align="center">
-
-My journey in tech started with curiosity about how things work and evolved into a mission to create solutions that make a real difference. I specialize in transforming complex problems into intuitive, scalable applications that users love to interact with.
-
-</td>
-</tr>
-</table>
-</div>
+<blockquote>
+<strong>"I bridge the gap between complex AI algorithms and intuitive user interfaces."</strong>
+<br><br>
+My mission is to build software that feels like magic—where cutting-edge technology meets seamless user experience. I believe in the power of AI to transform industries while keeping humans at the center of every solution.
+</blockquote>
 
 <br>
 
-<!-- Identity & Stats Dashboard -->
-<div align="center">
-<table width="100%">
-<tr>
-<!-- Left Card: Professional Identity -->
-<td width="35%" valign="top" align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=5&section=header" />
-
-### 💫 PROFESSIONAL IDENTITY
-
-<br>
-
-<table>
-<tr><td align="center" width="100%">
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-667eea?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</td></tr>
-<tr><td align="center">
-<img src="https://img.shields.io/badge/UI%2FUX%20Designer-bf91f3?style=for-the-badge&logo=figma&logoColor=white" />
-</td></tr>
-<tr><td align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer-38bdae?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</td></tr>
-<tr><td align="center">
-<img src="https://img.shields.io/badge/El%20Kala%2C%20El%20Tarf%20🇩🇿-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</td></tr>
-</table>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=bf91f3&height=5&section=header" />
-
-### 🏆 IMPACT DASHBOARD
-
-<br>
+### 💫 WHO I AM
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img height="60" src="https://img.shields.io/badge/25+-00d4ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-<br><br>
-<sub><b>PROJECTS<br>DELIVERED</b></sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/>
+<br>
+<strong>Full Stack</strong>
+<br>
+<sub>Developer</sub>
 </td>
-<td align="center" width="50%">
-<img height="60" src="https://img.shields.io/badge/1000+-4ecdc4?style=for-the-badge&logo=leetcode&logoColor=white" />
-<br><br>
-<sub><b>PROBLEMS<br>SOLVED</b></sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60"/>
+<br>
+<strong>AI/ML</strong>
+<br>
+<sub>Engineer</sub>
 </td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="center" width="50%">
-<img height="60" src="https://img.shields.io/badge/50K+-f093fb?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<sub><b>LINES OF<br>CODE</b></sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60"/>
+<br>
+<strong>UI/UX</strong>
+<br>
+<sub>Designer</sub>
 </td>
-<td align="center" width="50%">
-<img height="60" src="https://img.shields.io/badge/∞-ff6b6b?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-<br><br>
-<sub><b>CUPS OF<br>COFFEE</b></sub>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="60"/>
+<br>
+<strong>El Kala, Algeria</strong>
+<br>
+<sub>🇩🇿 Based in</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60"/>
+<br>
+<strong>Computer Science</strong>
+<br>
+<sub>Student</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=38bdae&height=5&section=header" />
-
-### ⚡ LIVE STATUS
-
-<br>
-
-<img src="https://img.shields.io/badge/🔥%20Building-AI%20Systems-success?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/📚%20Learning-Cloud%20Tech-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/💡%20Available-Freelance-brightgreen?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-
-</td>
-
-<!-- Right Card: Philosophy & Work -->
-<td width="65%" valign="top">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=5&section=header" />
-
-### 🎯 DEVELOPMENT PHILOSOPHY
-
-<br>
+### 🎯 WHAT I DO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎨 Design First
-Beautiful interfaces aren't just aesthetics—they're the bridge between users and powerful functionality. Every pixel matters, every interaction counts.
+#### 💻 Languages I Speak
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
 
-<br>
+#### 🎨 Frontend Arsenal
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
-#### 🔬 Innovation Obsessed
-I don't just follow trends—I experiment with cutting-edge technologies to build tomorrow's solutions today. Always learning, always evolving.
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ Performance Driven
-Speed is a feature, not a luxury. I optimize ruthlessly because users deserve experiences that feel instant and effortless across all devices.
-
-<br>
-
-#### 🤝 Human-Centered
-Technology should amplify human potential. I build with empathy, accessibility, and real user needs at the core of every decision.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=3&section=header" />
-
-<br>
-
-### 🔭 WHAT I'M WORKING ON
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Artificial Intelligence**
-- Smart attendance systems (99.8% accuracy)
-- Computer vision & facial recognition
-- Machine learning model deployment
-- Intelligent automation workflows
-
-<br>
-
-**📱 Mobile Excellence**
-- Flutter cross-platform apps
-- Responsive, mobile-first design
-- Native performance optimization
-- Seamless UX across devices
+#### ⚙️ Backend Power
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 Web Development**
-- Scalable React architectures
-- Next.js for blazing speed
-- Modern design systems
-- Performance optimization
+#### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 
-<br>
+#### 🔧 DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
-**☁️ Cloud & DevOps**
-- Cloud platform deployment
-- CI/CD pipeline implementation
-- Docker containerization
-- Infrastructure as code
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=bf91f3&height=3&section=header" />
-
-<br>
-
-### 💎 EXPERTISE SPECTRUM
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Expert-667eea?style=flat-square&logo=stackshare" /> <img src="https://img.shields.io/badge/UI%2FUX-Advanced-bf91f3?style=flat-square&logo=adobe" /> <img src="https://img.shields.io/badge/AI%2FML-Proficient-38bdae?style=flat-square&logo=tensorflow" /> <img src="https://img.shields.io/badge/Problem%20Solving-Expert-00d4ff?style=flat-square&logo=leetcode" /> <img src="https://img.shields.io/badge/Architecture-Advanced-f093fb?style=flat-square&logo=diagramsdotnet" /> <img src="https://img.shields.io/badge/Design%20Systems-Expert-4ecdc4?style=flat-square&logo=storybook" />
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=38bdae&height=3&section=header" />
-
-<br>
-
-<div align="center">
-
-> *"I don't just write code—I craft experiences. I don't just solve problems—I create opportunities.<br>Every project is a chance to push boundaries and build something extraordinary."*
-
-<br>
-
-**💼 Open to Collaborations** • **🚀 Always Learning** • **⚡ Ready to Innovate**
-
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<!-- Decorative Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br>
-
-<!-- Tech Stack with Visual Hierarchy -->
-<div align="center">
-
-## 🛠️ TECHNOLOGY ECOSYSTEM
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### ⚡ Core Languages
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,c,dart" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C/C++-Proficient-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-</td>
-<td width="34%" align="center" valign="top">
-
-### 🎨 Frontend Mastery
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-Proficient-02569B?style=flat-square&logo=flutter&logoColor=white" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔧 Tools & Platforms
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,linux,vscode,figma,ps" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-Advanced-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+#### 📚 Currently Learning
+<img src="https://img.shields.io/badge/Deep_Learning-🧠-blueviolet?style=flat"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-☁️-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Neural_Networks-🔮-purple?style=flat"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<!-- Decorative Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br>
-
-<!-- GitHub Statistics Dashboard -->
-<div align="center">
-
-## 📈 PERFORMANCE ANALYTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=U00A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U00A&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=38bdae" />
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=U00A&theme=tokyonight" />
-
-<br><br>
-
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&custom_title=Contribution%20Activity&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-<br>
-
-<!-- Achievement Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
-
-</div>
-
-<br>
-
-<!-- Decorative Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br>
-
-<!-- Featured Project Showcase -->
-<div align="center">
-
-## 🌟 FLAGSHIP PROJECT
-
-<table>
-<tr>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px"/>
-
-</td>
-<td width="60%">
-
-### 🤖 AI-Powered Smart Attendance System
-
-**Next-Generation Automated Attendance Tracking**
-
-<br>
-
-🎯 **Vision** → Revolutionize traditional attendance management  
-⚡ **Technology** → Computer Vision + Deep Learning  
-📊 **Accuracy** → 99.8% recognition rate  
-🚀 **Performance** → Real-time processing  
-💡 **Impact** → Zero manual intervention required  
-
-<br>
-
-**Tech Stack:**
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Decorative Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br>
-
-<!-- Connect Section with Beautiful Layout -->
-<div align="center">
-
-## 🌐 LET'S CREATE TOGETHER
-
-<br>
+### 💡 Core Philosophy
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-### 💼 Professional
-
-<a href="https://www.linkedin.com/in/ouanes-med-b46b62313/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" height="30"/>
-</a>
-
-*Connect for opportunities*
-
-</td>
-<td align="center" width="34%">
-
-### 🐦 Social
-
-<a href="https://x.com/MedellelOu81359">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic" height="30"/>
-</a>
-
-*Follow my journey*
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="50"/>
+<br>
+<strong>Clean Code</strong>
+<br>
+<sub>Readable, maintainable, elegant</sub>
 </td>
 <td align="center" width="33%">
-
-### 📸 Creative
-
-<a href="https://www.instagram.com/real.o1n?igsh=MWI2Ymo3MXU2OWlscg==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" height="30"/>
-</a>
-
-*See my visual work*
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50"/>
+<br>
+<strong>Scalable Systems</strong>
+<br>
+<sub>Built for growth & performance</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="50"/>
+<br>
+<strong>User-Centric Design</strong>
+<br>
+<sub>Empathy-driven experiences</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-### 📬 Open to Collaboration
-
-**Looking for:** Innovative projects • Open source contributions • Creative partnerships
-
-<img src="https://img.shields.io/badge/Status-Available_for_Freelance-00d4ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Response_Time-Within_24h-4ecdc4?style=for-the-badge" />
+**Fun Fact:** *I teach computers to dream* 😴✨
 
 </div>
 
 <br>
-
-<!-- Decorative Divider -->
-<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center" id="-tech-stack">🛠️ TECH ARSENAL</h2>
+
+<div align="center">
+
+### 💻 Core Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,dart,java&theme=dark"/>
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,figma&theme=dark"/>
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,firebase,postgres,mongodb&theme=dark"/>
+
+### 🤖 AI & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vscode,github&theme=dark"/>
+
 </div>
 
 <br>
-
-<!-- Inspirational Quote Section -->
-<div align="center">
-
-## 💭 PHILOSOPHY
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" />
-
-<br><br>
-
-### *"The best way to predict the future is to create it"*
-
-<br>
-
-</div>
-
-<br>
-
-<!-- Footer with Profile Views -->
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center" id="-projects">🌟 FEATURED PROJECTS</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Smart Attendance System
+*Enterprise-grade biometric platform powered by deep learning*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="100"/>
+</div>
+
+**Revolutionary attendance tracking with cutting-edge AI**
+
+#### 🔧 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+#### ✨ Key Features
+- ⚡ Real-time face detection & recognition
+- 🎯 99.8% accuracy with anti-spoofing
+- 📊 Automated attendance reporting
+- 🔒 Multi-camera support & security
+- 🚀 REST API integration
+
+#### 📈 Impact Metrics
+```
+✅ 99.8%  → Recognition Accuracy
+✅ 50%    → Faster Check-in
+✅ 1000+  → Daily Active Users
+✅ <100ms → Average Response
+```
+
+<a href="https://github.com/U00A">
+  <img src="https://img.shields.io/badge/View_Project-bf91f3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio Website
+*Modern showcase with stunning UI/UX design*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="100"/>
+</div>
+
+**Dynamic portfolio that leaves a lasting impression**
+
+#### 🔧 Tech Stack
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+#### ✨ Key Features
+- 🎨 Custom animations & smooth transitions
+- 📱 Fully responsive across all devices
+- ⚡ Optimized for lightning-fast loading
+- 🌙 Beautiful dark mode support
+- 🎯 SEO optimized for discoverability
+
+#### 🚀 Highlights
+```
+🚀 <1s     → Page Load Time
+🎨 Modern  → UI/UX Design
+📊 Dynamic → Interactive Sections
+🌐 Mobile  → First Approach
+```
+
+<a href="https://github.com/U00A/personal_pf">
+  <img src="https://img.shields.io/badge/View_Code-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=U00A&label=Profile%20Views&color=667eea&style=for-the-badge" />
+<div align="center">
 
-<br><br>
+### 🛠️ MORE PROJECTS
 
-**⚡ Crafted with passion, powered by innovation**
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="60"/>
+
+#### 🔄 Lang Converter
+**Multi-language translator**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+Fast and accurate language conversion tool for seamless translation
+
+<a href="https://github.com/U00A/Lang_converter">
+<img src="https://img.shields.io/badge/View-667eea?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="60"/>
+
+#### ✅ Task Manager
+**Productivity tool**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+Simple yet effective task management for organizing your daily workflow
+
+<a href="https://github.com/U00A/task-manager">
+<img src="https://img.shields.io/badge/View-667eea?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" width="60"/>
+
+#### ⏰ Wakey Wakey
+**Smart alarm system**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+Intelligent wake-up application with customizable alerts and features
+
+<a href="https://github.com/U00A/wakey_wakey">
+<img src="https://img.shields.io/badge/View-667eea?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60"/>
+
+#### 📚 Library Manager
+**Book management system**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+
+Comprehensive library tracking system with cataloging and user management
+
+<a href="https://github.com/U00A/Libraey_manager">
+<img src="https://img.shields.io/badge/View-667eea?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="60"/>
+
+#### 💻 Custom Terminal
+**CLI interface**
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+
+Custom command-line environment with enhanced functionality and features
+
+<a href="https://github.com/U00A/terminal">
+<img src="https://img.shields.io/badge/View-667eea?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60"/>
+
+#### 🚀 More Coming Soon
+**Stay tuned!**
+
+Currently building amazing things...
+
+<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center" id="-metrics">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+### 📈 Stats Overview
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=U00A&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=667eea&text_color=ffffff&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=ffffff&langs_count=8&hide=html,css" height="180"/>
 
 <br>
 
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+### 🔥 Contribution Streak
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=U00A&theme=midnight-purple&hide_border=true&background=0D1117&stroke=bf91f3&ring=667eea&fire=bf91f3&currStreakLabel=bf91f3&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="600"/>
+
+<br>
+
+### 📊 Contribution Activity
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br>
+
+### 🏆 GitHub Trophies
+
+  <img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center">🎯 2025 ROADMAP</h2>
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 2025 Goals] --> B[📚 Master Deep Learning]
+    A --> C[🌐 Contribute to OSS]
+    A --> D[🚀 Launch SaaS Product]
+    A --> E[📝 Write Tech Blog]
+    
+    B --> B1[Complete 5 ML Projects]
+    C --> C1[100+ Contributions]
+    D --> D1[Reach 1000 Users]
+    E --> E1[Publish 20 Articles]
+    
+    style A fill:#bf91f3,stroke:#667eea,stroke-width:3px,color:#fff
+    style B fill:#667eea,stroke:#bf91f3,stroke-width:2px,color:#fff
+    style C fill:#667eea,stroke:#bf91f3,stroke-width:2px,color:#fff
+    style D fill:#667eea,stroke:#bf91f3,stroke-width:2px,color:#fff
+    style E fill:#667eea,stroke:#bf91f3,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center">💼 WHAT I BRING TO THE TABLE</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+### Full Stack Development
+
+Building scalable, high-performance web applications with modern frameworks and industry best practices
+
+**Key Skills:**
+- React & Next.js ecosystems
+- Node.js backend architecture
+- Database design & optimization
+- RESTful API development
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+
+### AI/ML Engineering
+
+Developing intelligent systems using deep learning, computer vision, and advanced machine learning techniques
+
+**Key Skills:**
+- TensorFlow & PyTorch
+- Computer Vision (OpenCV)
+- Model deployment & optimization
+- Neural network architectures
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+
+### UI/UX Design
+
+Crafting beautiful, intuitive interfaces that users love, with a focus on accessibility and user experience
+
+**Key Skills:**
+- Figma & design systems
+- Responsive design principles
+- User research & testing
+- Micro-interactions & animations
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<h2 align="center" id="-connect">🤝 LET'S CONNECT & CREATE</h2>
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="100"/>
+  
+  <br><br>
+  
+  <p>
+    <i>"The best way to predict the future is to invent it."</i> — Alan Kay
+  </p>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="mailto:your.email@example.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <br>
+        <sub>Drop me a line</sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.linkedin.com/in/ouanes-med-b46b62313/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <br>
+        <sub>Let's network</sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://x.com/MedellelOu81359">
+          <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+        </a>
+        <br>
+        <sub>Follow my journey</sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/U00A">
+          <img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <br>
+        <sub>Check out my work</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  ### 💼 Currently Open For
+
+  <img src="https://img.shields.io/badge/💼_Freelance_Projects-Available-00d4ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝_Collaborations-Open-4ecdc4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_Response_Time-Within_24h-bf91f3?style=for-the-badge"/>
+  
+  <br><br>
+  
+  <details>
+  <summary>📮 <b>Want to work together?</b></summary>
+  <br>
+  <p align="left">
+    I'm always excited to collaborate on innovative projects! Whether you're looking for:
+    <br><br>
+    🎯 <b>Full-stack development</b> for your next web application<br>
+    🤖 <b>AI/ML solutions</b> to solve complex problems<br>
+    🎨 <b>UI/UX design</b> that makes users fall in love with your product<br>
+    🚀 <b>Technical consultation</b> on architecture and best practices<br>
+    <br>
+    Let's turn your ideas into reality! Reach out through any of the platforms above.
+  </p>
+  </details>
+  
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<div align="center">
+
+### 💭 Daily Inspiration
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" width="700"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=twinkling"/>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=U00A&label=Profile%20Views&color=667eea&style=for-the-badge"/>
+  
+  <br><br>
+  
+  <p>
+    <sub>⚡ Crafted with passion, powered by innovation | ⭐ From <a href="https://github.com/U00A">U00A</a> with 💜</sub>
+  </p>
+  
 </div>
