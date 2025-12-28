@@ -424,15 +424,6 @@ Currently building amazing things...
 
 <h2 align="center" id="-metrics">📊 GITHUB ANALYTICS</h2>
 
-<div align="center">
-
-### 📈 Stats Overview
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=U00A&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=667eea&text_color=ffffff&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=ffffff&langs_count=8&hide=html,css" height="180"/>
-
-<br>
-
 ### 🔥 Contribution Streak
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=U00A&theme=midnight-purple&hide_border=true&background=0D1117&stroke=bf91f3&ring=667eea&fire=bf91f3&currStreakLabel=bf91f3&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="600"/>
@@ -443,15 +434,6 @@ Currently building amazing things...
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<br>
-
-### 🏆 GitHub Trophies
-
-  <img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
-
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 
@@ -636,9 +618,5 @@ Crafting beautiful, intuitive interfaces that users love, with a focus on access
   <img src="https://komarev.com/ghpvc/?username=U00A&label=Profile%20Views&color=667eea&style=for-the-badge"/>
   
   <br><br>
-  
-  <p>
-    <sub>⚡ Crafted with passion, powered by innovation | ⭐ From <a href="https://github.com/U00A">U00A</a> with 💜</sub>
-  </p>
-  
+
 </div>
