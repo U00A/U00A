@@ -72,14 +72,14 @@ My mission is to build software that feels like magic—where cutting-edge techn
 <sub>Developer</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/>
 <br>
 <strong>AI/ML</strong>
 <br>
 <sub>Engineer</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="60"/>
 <br>
 <strong>UI/UX</strong>
 <br>
@@ -422,18 +422,215 @@ Currently building amazing things...
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 
-<h2 align="center" id="-metrics">📊 GITHUB ANALYTICS</h2>
+<h2 align="center" id="-metrics">📊 GITHUB ANALYTICS DASHBOARD</h2>
 
-### 🔥 Contribution Streak
+<div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=U00A&theme=midnight-purple&hide_border=true&background=0D1117&stroke=bf91f3&ring=667eea&fire=bf91f3&currStreakLabel=bf91f3&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="600"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700"/>
+
+</div>
 
 <br>
 
-### 📊 Contribution Activity
+<div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
+## 🎯 PERFORMANCE METRICS
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=U00A&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=667eea&text_color=ffffff&count_private=true&include_all_commits=true" width="100%"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=U00A&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=bf91f3&fire=bf91f3&currStreakLabel=ffffff&dates=8b949e" width="100%"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💻 CODING ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true&title_color=bf91f3&custom_title=Contribution%20Graph%20-%20Last%2012%20Months" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎨 TECHNOLOGY BREAKDOWN
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+### 📊 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=ffffff&langs_count=8" width="100%"/>
+
+</td>
+<td width="65%" align="center">
+
+### 📦 Repository Stats
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br>
+<img src="https://img.shields.io/badge/Total_Repositories-7-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br>
+<img src="https://img.shields.io/badge/Total_Stars-0+-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br>
+<img src="https://img.shields.io/badge/Followers-3-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+**🗂️ Project Distribution by Language**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+<strong>6 Projects</strong><br>
+<sub>AI/ML & Automation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
+<strong>1 Project</strong><br>
+<sub>Enterprise Systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>
+<strong>1 Project</strong><br>
+<sub>System Programming</sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS & TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📅 CONTRIBUTION HEATMAP
+
+<img src="https://ghchart.rshah.org/bf91f3/U00A" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ⏱️ DEVELOPMENT INSIGHTS
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌙 Productive Hours
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=U00A&theme=radical&utcOffset=1" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### 📊 Commit Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=U00A&theme=radical" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎖️ DEVELOPER PROFILE SUMMARY
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/><br>
+<strong>Full Stack</strong><br>
+<sub>Developer</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/><br>
+<strong>AI/ML</strong><br>
+<sub>Engineer</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/><br>
+<strong>Open Source</strong><br>
+<sub>Contributor</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/><br>
+<strong>Multi-Language</strong><br>
+<sub>Expert</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70"/><br>
+<strong>Continuous</strong><br>
+<sub>Learner</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=U00A&label=Profile+Views&color=bf91f3&style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+</div>
+
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 
@@ -618,5 +815,9 @@ Crafting beautiful, intuitive interfaces that users love, with a focus on access
   <img src="https://komarev.com/ghpvc/?username=U00A&label=Profile%20Views&color=667eea&style=for-the-badge"/>
   
   <br><br>
-
+  
+  <p>
+    <sub>⚡ Crafted with passion, powered by innovation | ⭐ From <a href="https://github.com/U00A">U00A</a> with 💜</sub>
+  </p>
+  
 </div>
