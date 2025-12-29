@@ -455,7 +455,7 @@ Currently building amazing things...
 
 ### 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=U00A&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=bf91f3&fire=bf91f3&currStreakLabel=ffffff&dates=8b949e" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=U00A&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=bf91f3&fire=bf91f3&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" width="100%"/>
 
 </div>
 
@@ -543,16 +543,6 @@ Currently building amazing things...
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 
 </div>
 
