@@ -471,7 +471,7 @@ Currently building amazing things...
 
 ## 💻 CODING ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true&title_color=bf91f3&custom_title=Contribution%20Graph%20-%20Last%2012%20Months" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=U00A&bg_color=0D1117&color=bf91f3&line=667eea&point=ffffff&area=true&hide_border=true&title_color=bf91f3&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -483,37 +483,42 @@ Currently building amazing things...
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="40%" align="center" valign="top">
 
 ### 📊 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=ffffff&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U00A&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=ffffff&langs_count=6" width="100%"/>
 
 </td>
-<td width="65%" align="center">
+<td width="60%" align="center" valign="top">
 
-### 📦 Repository Stats
+### 📦 Repository Insights
+
+<br>
 
 <table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Total_Repositories-7-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/Total_Repos-7-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/><br>
+<sub>Active Projects</sub>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Total_Stars-0+-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/Total_Stars-⭐-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/><br>
+<sub>Community Love</sub>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Followers-3-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/Followers-3+-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/><br>
+<sub>Network Size</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-**🗂️ Project Distribution by Language**
+**🗂️ Language Distribution**
 
 <table>
 <tr>
@@ -523,7 +528,7 @@ Currently building amazing things...
 <sub>AI/ML & Automation</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 <strong>1 Project</strong><br>
 <sub>Enterprise Systems</sub>
 </td>
@@ -547,17 +552,7 @@ Currently building amazing things...
 
 ## 🏆 ACHIEVEMENTS & TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📅 CONTRIBUTION HEATMAP
-
-<img src="https://ghchart.rshah.org/bf91f3/U00A" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=U00A&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 
 </div>
 
@@ -569,16 +564,16 @@ Currently building amazing things...
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🌙 Productive Hours
+### 🌙 Most Productive Hours
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=U00A&theme=radical&utcOffset=1" width="100%"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 📊 Commit Stats
+### 📊 Commit Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=U00A&theme=radical" width="100%"/>
 
@@ -624,9 +619,9 @@ Currently building amazing things...
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=U00A&label=Profile+Views&color=bf91f3&style=for-the-badge&labelColor=0d1117"/>
+<br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=U00A&label=Profile+Views&color=bf91f3&style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
