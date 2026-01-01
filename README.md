@@ -346,14 +346,7 @@ Building tomorrow's solutions with today's code
 
 <br><br>
 
-### 💬 Get in Touch
 
-**Email:** contact@ouanes.dev  
-**Portfolio:** https://ouanes.dev  
-**Timezone:** GMT+1 (Algeria)  
-**Availability:** Open to collaborations & opportunities
-
-</div>
 
 <br>
 
