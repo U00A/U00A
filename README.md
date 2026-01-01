@@ -368,7 +368,7 @@
 
 ### 📫 Reach Out
 
-**💌 Email:** ouanesm9@gmail.com  
+**💌 Email:** ouanesmedellel@gmail.com  
 **🌐 Portfolio:** [Coming Soon]  
 **🕐 Timezone:** GMT+1 (Algeria)  
 **✨ Open to:** Collaborations & Opportunities
