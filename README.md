@@ -180,17 +180,28 @@ Building tomorrow's solutions with today's code
 
 <div align="center">
 
+<!-- Project Showcase Grid -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=task-manager&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/🔧_Task_Manager-Python-3776AB?style=for-the-badge&labelColor=1a1b27&logo=python&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python"/>
+<br>
+<sub><b>Simple task management system for daily productivity</b></sub>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/Lang_converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=Lang_converter&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/🌐_Lang_Converter-Python-3776AB?style=for-the-badge&labelColor=1a1b27&logo=python&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python"/>
+<br>
+<sub><b>Language translation and conversion tool</b></sub>
 </td>
 </tr>
 </table>
@@ -199,15 +210,25 @@ Building tomorrow's solutions with today's code
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/Libraey_manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=Libraey_manager&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/📚_Library_Manager-Java-ED8B00?style=for-the-badge&labelColor=1a1b27&logo=openjdk&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk"/>
+<br>
+<sub><b>Comprehensive library management system</b></sub>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/terminal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=terminal&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/💻_Terminal-C++-00599C?style=for-the-badge&labelColor=1a1b27&logo=cplusplus&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus"/>
+<br>
+<sub><b>Custom terminal implementation project</b></sub>
 </td>
 </tr>
 </table>
@@ -216,18 +237,34 @@ Building tomorrow's solutions with today's code
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/wakey_wakey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=wakey_wakey&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/⏰_Wakey_Wakey-Python-3776AB?style=for-the-badge&labelColor=1a1b27&logo=python&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python"/>
+<br>
+<sub><b>Keep-awake utility for system automation</b></sub>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/U00A/personal_pf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=U00A&repo=personal_pf&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%"/>
+<img src="https://img.shields.io/badge/🎨_Personal_Portfolio-Web-E34F26?style=for-the-badge&labelColor=1a1b27&logo=html5&logoColor=white" width="90%"/>
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-HTML/CSS/JS-E34F26?style=flat-square&logo=html5"/>
+<br>
+<sub><b>Personal portfolio website showcase</b></sub>
 </td>
 </tr>
 </table>
+
+<br>
+
+<a href="https://github.com/U00A?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Projects-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" height="40"/>
+</a>
 
 </div>
 
