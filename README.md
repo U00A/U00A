@@ -801,8 +801,4 @@ Crafting beautiful, intuitive interfaces that users love, with a focus on access
   
   <br><br>
   
-  <p>
-    <sub>⚡ Crafted with passion, powered by innovation | ⭐ From <a href="https://github.com/U00A">U00A</a> with 💜</sub>
-  </p>
-  
 </div>
