@@ -396,7 +396,7 @@
 ### 📬 Get In Touch
 
 **💌 Email:** ouanesmedellel@gmail.com  
-**🌐 Portfolio:** Coming Soon!  
+**🌐 Portfolio:https://ouanes-dev.vercel.app/
 **🕐 Timezone:** GMT+1 (Algeria)  
 **✨ Interests:** Open Source Collaboration, Innovative Projects, Tech Discussions
 
